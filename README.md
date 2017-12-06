@@ -4,7 +4,7 @@
 	<head>
 		<title>Dakota DiMattio, TECDP Associate</title>
 		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<link rel="stylesheet" type="text/css" href="ddimattio.github.io/css/main.css"> 
 	</head>
 	<body>
 		<nav>
