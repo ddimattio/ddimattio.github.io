@@ -24,7 +24,7 @@
 		<footer>
     		<ul>
         		<li><a href="mailto:dakotadimattio@gmail.com">email</a></li>
-        		<li><a href="https://github.com/ddimattio">github.com/hankquinlan</a></li>
+        		<li><a href="https://github.com/ddimattio">github.com/ddimattio</a></li>
 			</ul>
 		</footer>
 	</body>
