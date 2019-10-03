@@ -1,31 +1,35 @@
-# ddimattio.github.io
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Dakota DiMattio, TECDP Associate</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="ddimattio.github.io/css/main.css"> 
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Hi there, I'm Dakota!</h1>
-				<p>Born and raised in CT <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:dakotadimattio@gmail.com">email</a></li>
-        		<li><a href="https://github.com/ddimattio">github.com/ddimattio</a></li>
-			</ul>
-		</footer>
-	</body>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('C:/Users/dakot/OneDrive/Desktop/myWebsite/stockphoto.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+</style>
+<body>
+
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="w3-display-topleft w3-padding-large w3-xlarge">
+    Dakota DiMattio
+  </div>
+  <div class="w3-display-middle">
+    <h1 class="w3-jumbo w3-animate-top">COMING SOON</h1>
+    <hr class="w3-border-grey" style="margin:auto;width:40%">
+    <p class="w3-large w3-center">35 days left</p>
+  </div>
+ 
+  </div>
+</div>
+
+</body>
 </html>
