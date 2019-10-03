@@ -10,7 +10,7 @@
 body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image: url('C:/Users/dakot/OneDrive/Desktop/myWebsite/stockphoto.jpg');
+  background-image: url('css/stockphoto.jpg');
   min-height: 100%;
   background-position: center;
   background-size: cover;
